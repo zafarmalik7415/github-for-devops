@@ -5,4 +5,3 @@ def add_numbers():
     return d,
 add_numbers()
 print("Hi How are you? "), 
-print("I am fine, Thank you!")
