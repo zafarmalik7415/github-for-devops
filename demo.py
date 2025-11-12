@@ -1,7 +1,12 @@
 def add_numbers():
-    a= 67
-    b=78
-    c-676
-    return d,
-add_numbers()
-print("Hi How are you? "), 
+    """Return the sum of two numbers."""
+    a = 67
+    b = 78
+    result = a + b
+    return result
+
+
+
+total = add_numbers(),
+print("The sum is:", total)
+    
