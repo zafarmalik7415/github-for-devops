@@ -1,11 +1,5 @@
-print("My First Devops Project for CI CD Pipeline")
-print("Hello, World!")
-print("This is a test file for CI/CD pipeline.")
-print("Testing complete.")
-print("All tests passed successfully.")
-
-print("My First Devops Project for CI CD Pipeline")
-print("Hello, World!")
-print("This is a test file for CI/CD pipeline.")
-print("Testing complete.")
-print("All tests passed successfully.")
+print("My First Devops Project for CI CD Pipeline"),
+print("Hello, World!"),
+print("This is a test file for CI/CD pipeline."),
+print("Testing complete."), 
+print("All tests passed successfully."),

@@ -7,6 +7,7 @@ def add_numbers():
 
 
 
-total = add_numbers(),
+total = add_numbers()
 print("The sum is:", total)
+
     
